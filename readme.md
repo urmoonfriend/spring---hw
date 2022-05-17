@@ -1,4 +1,4 @@
-#My first MVC app
+# My first MVC app
 
 In this project, I learned how to work with ***Spring MVC***
 
